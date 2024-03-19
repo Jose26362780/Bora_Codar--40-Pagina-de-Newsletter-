@@ -10,14 +10,13 @@
 
 ![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-👉🏼[Link do projeto]()
+👉🏼[Link do projeto](https://bora-codar-40-pagina-de-newsletter.vercel.app/)
 
 
 #  💻🔧 Tecnologias
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
