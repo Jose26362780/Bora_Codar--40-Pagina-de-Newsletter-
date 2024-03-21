@@ -1,8 +1,8 @@
 # Workspace Inspiration #boraCodar #40
 
-- Bora codar um newslestter 
+- O desafio é codar uma página de inscrição de Newsletter de inspiração de setups
 
-> Data Picker #boraCodar #17
+>Pagina de Newsletter #boraCodar #40
 
 ![preview](./.github/cover.png)
 
@@ -18,6 +18,11 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
+
+
+#  💻🔧 Adicionada a biblioteca scroll reveaal
+
+https://scrollrevealjs.org/
 
 
 ## Contato 💻
